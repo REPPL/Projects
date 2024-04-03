@@ -8,7 +8,9 @@ Links to various projects.
 
 1. [CSVtoQDC](https://github.com/REPPL/CSVtoQDC): An attempt to convert codes from CSV files into a Nvivo codebook (.QDC)
 
-1. [TUIcan](https://github.com/REPPL/TUIcan): Testing a curses-based Terminal UI in Python.
+2. [TUIcan](https://github.com/REPPL/TUIcan): Testing a curses-based Terminal UI in Python.
+
+3. [qtp](https://github.com/REPPL/qtp): A simple script to plot text highlights.
 
 
 ## Games
