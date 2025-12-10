@@ -4,7 +4,12 @@
 Links to various projects.
 
 
-## Experiments
+## Vibe coding exercises
+
+1. [ragd](https://github.com/REPPL/ragd): Reference implementation for AI-coding a local RAG system.
+
+
+## Other experiments
 
 1. [CSVtoQDC](https://github.com/REPPL/CSVtoQDC): An attempt to convert codes from CSV files into a Nvivo codebook (.QDC)
 
@@ -20,6 +25,12 @@ Links to various projects.
 
 ## Configurations
 
-1. [Emacs](https://github.com/REPPL/emacs.d)
+1. [Terminal](https://github.com/REPPL/Terminal)
+
+2. [Emacs](https://github.com/REPPL/emacs.d)
+
+3. [.claude](https://github.com/REPPL/MyClaudeCode)
+
+
 
 
