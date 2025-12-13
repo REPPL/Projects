@@ -4,9 +4,10 @@
 Links to various projects.
 
 
-## Vibe coding exercises
+## Vibe coding experiments
 
-1. [ragd](https://github.com/REPPL/ragd): Reference implementation for AI-coding a local RAG system.
+1. [ragd](https://github.com/REPPL/ragd): Reference implementation for AI-coding a local RAG system. (Building on two archived projects: [raggedZero](https://github.com/REPPL/raggedZero) and [ragged](https://github.com/REPPL/ragged).)
+2. [Persona](https://github.com/REPPL/Persona): Reference implementation for AI-coding a persona generator. (Building on one archived project: [PersonaZero](https://github.com/REPPL/PersonaZero).)
 
 
 ## Other experiments
