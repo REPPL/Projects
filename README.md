@@ -4,7 +4,7 @@
 Reference implementations for AI-coding ...
 
 1. [ragd](https://github.com/REPPL/ragd): ... a local RAG system. (Building on two archived projects: [raggedZero](https://github.com/REPPL/raggedZero) and [ragged](https://github.com/REPPL/ragged).)
-2. [Persona](https://github.com/REPPL/Persona): ... a persona generator. (Building on one archived project: [PersonaZero](https://github.com/REPPL/PersonaZero).)
+2. [Persona](https://github.com/REPPL/Persona): ... a persona generator. (Building on two archived project: [PersonaZero](https://github.com/REPPL/PersonaZero) & [PersonaSubZero](https://github.com/REPPL/PersonaSubZero).)
 3. [quotag](https://github.com/REPPL/quotag): ... an analysis tool for qualitative data. (Building on one archived project: [eval](https://github.com/REPPL/eval).)
 4. [itemdeck.app](https://github.com/REPPL/itemdeck.app): ... an adaptive frontend application.
 
